@@ -70,6 +70,7 @@ header {
     width: 800px;
     min-height: 400px;
     margin: 15vh auto;
+    
 
     display: grid;
     grid-template-columns: 60% 1fr;
